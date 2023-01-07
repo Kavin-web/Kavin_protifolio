@@ -20,7 +20,7 @@ kavin.style.marginTop = "50px"
 
 
 
-let personal = "HI, I am Kavin Kumaar From Kumbakonam In India. My Age is 20 Old Boy. I am an Collage Students. I am Enthusiast in Web Developement. I am a Qualified and Professional Web Developer. I Created  Mini_projects in Web Development Field in my Git Hub Accounts. Easy Way To Communicate With Others. Strong and Creative Analiytcs Skills. In My Terms Achived My Dreams and Goals Lot."
+let personal = "Hi, I am Kavin Kumaar From Kumbakonam In India. My Age is 20 Old Boy. I am an Collage Students. I am Enthusiast in Web Developement. I am a Qualified and Professional Web Developer. I Created  Mini_projects in Web Development Field in my Git Hub Accounts. Easy Way To Communicate With Others. Strong and Creative Analiytcs Skills. In My Terms Achived My Dreams and Goals Lot."
 const web = document.createElement("div")
 web.innerHTML = "personal"
 const kavinpersonal = document.getElementById("kavinpersonal")
@@ -62,6 +62,7 @@ content.style.fontSize = "50px"
 function pop(){
     alert("Welcome! Your Message will be send to Admin")
 }
+
 
 
 
